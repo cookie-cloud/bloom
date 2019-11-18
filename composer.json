@@ -1,5 +1,5 @@
 {
-    "name": "filter/bloom",
+    "name": "cookie/bloom",
     "description": "This is bloom filter sdk",
     "type": "library",
     "license": "MIT",
