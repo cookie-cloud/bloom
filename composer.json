@@ -1,0 +1,19 @@
+{
+    "name": "filter/bloom",
+    "description": "This is bloom filter sdk",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "周涛",
+            "email": "zhoutao@hoge.cn"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bloom\\": "src/"
+        }
+    }
+}
