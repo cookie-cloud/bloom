@@ -1,7 +1,7 @@
 {
     "name": "filter/bloom",
     "description": "This is bloom filter sdk",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
